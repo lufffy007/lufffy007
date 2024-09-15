@@ -1,15 +1,4 @@
-# <svg width="300" height="50" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:rgb(255,0,150);stop-opacity:1" />
-      <stop offset="100%" style="stop-color:rgb(0,204,255);stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <text x="10" y="40" font-family="Arial" font-size="35" fill="url(#grad1)">
-    👋 Hello, I'm Viral Patel!
-    <animate attributeName="fill" values="url(#grad1);#ffffff;url(#grad1)" dur="3s" repeatCount="indefinite" />
-  </text>
-</svg>
+<h1>👋 Hello, I'm Viral Patel!</h1>
 
 ### Full Stack Developer & Cloud Engineer
 I am passionate about technology, learning, and building high-performance applications. With hands-on experience in both frontend and backend development, cloud engineering, and continuous integration, I aim to deliver scalable, reliable solutions.
