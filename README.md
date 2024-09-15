@@ -46,9 +46,4 @@ I am passionate about technology, learning, and building high-performance applic
 
 ---
 
-## ✍️ Random Dev Quote
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
-
----
-
 ![Visitor Count](https://visitcount.itsvg.in/api?id=lufffy007&icon=6&color=0)
